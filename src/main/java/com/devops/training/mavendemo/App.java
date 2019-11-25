@@ -4,7 +4,7 @@ package com.devops.training.mavendemo;
  * Hello world! New comment 
  *
  */
-public class App1 
+public class App
 {
     public static void main( String[] args )
     {
