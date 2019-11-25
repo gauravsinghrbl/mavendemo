@@ -1,7 +1,7 @@
 package com.devops.training.mavendemo;
 /*Test java  */
 /**
- * Hello world! New comment Asif
+ * Hello world! New comment 
  *
  */
 public class App 
